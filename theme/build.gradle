@@ -5,7 +5,7 @@ android {
     buildToolsVersion "20.0.0"
 
     defaultConfig {
-        applicationId "com.your.theme.template"
+        applicationId "com.liquid.thyrus.black"
         minSdkVersion 19
         targetSdkVersion 20
         versionCode 1
